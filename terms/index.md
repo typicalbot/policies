@@ -1,8 +1,8 @@
-# Sylke – Terms of Service
+# Terms of Service
 
-Sylke LLC ("Sylke," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the websites located at [https://sylke.co](https://sylke.co) and [https://typicalbot.com](https://typicalbot.com) ("Sites"), subject to these terms and conditions ("Terms").
+TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the website located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions ("Terms").
 
-The Terms govern your access to and use of TypicalBot, and the images, information, links, sounds, text, videos, and other content made available through the Sites (collectively, "Services"). By using the Services, you agree to the Terms. If you do not agree with the Terms, you may not use the Services.
+The Terms govern your access to and use of TypicalBot, and the images, information, links, sounds, text, videos, and other content made available through the Website (collectively, "Services"). By using the Services, you agree to the Terms. If you do not agree with the Terms, you may not use the Services.
 
 PLEASE READ THE TERMS CAREFULLY, AS THEY CONTAIN PROVISIONS THAT MAY AFFECT YOUR LEGAL RIGHTS, INCLUDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS IN SECTION 13 THAT GOVERN HOW DISPUTES BETWEEN YOU AND TYPICALBOT WILL BE RESOLVED.
 
@@ -16,7 +16,7 @@ All interest in the Services and their components shall remain our exclusive pro
 
 ## 3. User Content
 
-As between you and Sylke, all interest you have in any content that you display, distribute, post, transmit or upload ("post") in connection with the Services ("User Content") shall remain your property. However, you hereby grant us a non-exclusive, royalty-free, transferable and worldwide license to adapt, display, distribute, host, modify (in whole or in part), publicly display, publicly perform, store and use such User Content using any methods now known or later developed for the sole purpose of allowing us to provide the Services to you.
+As between you and the Company, all interest you have in any content that you display, distribute, post, transmit or upload ("post") in connection with the Services ("User Content") shall remain your property. However, you hereby grant us a non-exclusive, royalty-free, transferable and worldwide license to adapt, display, distribute, host, modify (in whole or in part), publicly display, publicly perform, store and use such User Content using any methods now known or later developed for the sole purpose of allowing us to provide the Services to you.
 
 For User Content that you post to or through the Services, you represent and warrant that: (a) You have the right to post such User Content and are able to grant the licenses set forth herein; (b) We will not need to obtain licenses from or pay royalties to any third party in connection with such User Content; and (c) Such User Content does not infringe upon any third party’s rights, including without limitation, intellectual property, privacy and publicity rights.
 
@@ -53,7 +53,7 @@ We will automatically bill your account from the date you purchase the Paid Serv
 
 We shall honor refund requests for a period of 7 days from the date on which you first purchase Paid Services by providing a full refund upon request. If we honor a refund request from you, we reserve the right to terminate your access to Paid Services immediately. No refund requests will be honored after such period.
 
-If you dispute any amounts paid or payable by you, you must notify Sylke in writing and provide such written notice to us within sixty (60) days of the applicable charge to your account. If you do not provide Sylke with a written notice within sixty (60) days, you will not be entitled to dispute or recover any applicable amounts paid or payable by you.
+If you dispute any amounts paid or payable by you, you must notify the Company in writing and provide such written notice to us within sixty (60) days of the applicable charge to your account. If you do not provide the Company with a written notice within sixty (60) days, you will not be entitled to dispute or recover any applicable amounts paid or payable by you.
 
 ## 6. Disclaimers
 
@@ -73,7 +73,7 @@ WE PROVIDE THE SERVICES ON AN "AS IS" BASIS AND WITHOUT ANY WARRANTIES. YOU USE 
 To the fullest extent permitted by law:
 
 1. We shall not be liable for any direct, indirect, consequential, exemplary or incidental damages, including without limitation, damages for loss of business, data, goodwill or profit;
-2. Our total liability to you for any and all claims shall be limited to and not exceed the amount paid by you to Sylke or five hundred dollars (USD $500.00), whichever is greater; and
+2. Our total liability to you for any and all claims shall be limited to and not exceed the amount paid by you to the Company or five hundred dollars (USD $500.00), whichever is greater; and
 3. In all cases, we shall not be liable or responsible to you or any third party for any damages or losses that are not reasonably foreseeable.
 
 To the extent any of the foregoing disclaimers or limitations of liability do not apply to you, all applicable implied and statutory warranties shall be limited to the fullest extent permitted by law for the minimum period required by law and no warranties shall apply after such period.
@@ -84,7 +84,7 @@ Our [Privacy Policy](https://sylke.co/privacy) describes the information we coll
 
 ## 9. Term and Termination
 
-The Terms begins on the date of electronic acceptance or on the date you first access or use the Services and continues so long as you access or use the Services or have an account with us, whichever is longer. You may terminate your agreement with Sylke at any time by deactivating and/or deleting your account with Sylke and no longer accessing or using the Services. We may terminate the Terms at any time by providing seven (7) days notice.
+The Terms begins on the date of electronic acceptance or on the date you first access or use the Services and continues so long as you access or use the Services or have an account with us, whichever is longer. You may terminate your agreement with the Company at any time by deactivating and/or deleting your account with the Company and no longer accessing or using the Services. We may terminate the Terms at any time by providing seven (7) days notice.
 
 If you breach the Terms, we may, at our option: (a) terminate the Terms immediately, with or without advance notice; and (b) delete, limit, suspend, or terminate access to the Services and your account. If we disable, suspend, or terminate your access to the Services, or if we deactivate or delete your account, you may not attempt to access the Services or create a new account without our written consent and permission to do so.
 
@@ -92,13 +92,13 @@ If we delete your account for any reason, any Content associated or posted with 
 
 ## 10. Third Party Content
 
-The Services may contain content that does not belong to Sylke ("Third Party Content") in order to help provide the Services to you, but such use does not indicate that we endorse the Third Party Content and we are not responsible for their actions.
+The Services may contain content that does not belong to the Company ("Third Party Content") in order to help provide the Services to you, but such use does not indicate that we endorse the Third Party Content and we are not responsible for their actions.
 
-The Services may link to third party websites, some of which may use materials under license from Sylke. We are not responsible for these third party websites or the organizations operating or sponsoring such third party websites, or their products or services, nor do we endorse or support such third party websites, whether or not we are affiliated with such third party websites.
+The Services may link to third party websites, some of which may use materials under license from the Company. We are not responsible for these third party websites or the organizations operating or sponsoring such third party websites, or their products or services, nor do we endorse or support such third party websites, whether or not we are affiliated with such third party websites.
 
 ## 11. Assignment and Beneficiaries
 
-You shall not assign the Terms and any attempted assignment of the Terms by you shall be null and void. The Terms are freely assignable by Sylke. We may also permit third parties to exercise our rights or perform our obligations under the Terms. The Terms do not create any third party beneficiary rights.
+You shall not assign the Terms and any attempted assignment of the Terms by you shall be null and void. The Terms are freely assignable by the Company. We may also permit third parties to exercise our rights or perform our obligations under the Terms. The Terms do not create any third party beneficiary rights.
 
 ## 12. Amendment
 
@@ -106,19 +106,19 @@ We reserve the right to amend or modify the Terms at any time and for any reason
 
 ## 13. Arbitration
 
-Arbitration or Mediation: You agree that any and all future, past, and present claims or disputes you may have against Sylke arising out of, in connection with, or relating to the Terms and the Services (a "Claim") must be resolved by arbitration or mediation. For the avoidance of doubt and clarification, this means that any Claim you have will not be resolved by a judge or jury in a court of law.
+Arbitration or Mediation: You agree that any and all future, past, and present claims or disputes you may have against the Company arising out of, in connection with, or relating to the Terms and the Services (a "Claim") must be resolved by arbitration or mediation. For the avoidance of doubt and clarification, this means that any Claim you have will not be resolved by a judge or jury in a court of law.
 
-Class or Representative Actions: You agree that any Claim you have against Sylke must only be resolved on an individual basis and not in a class, consolidated, or representative action or proceeding, regardless of how the Claim is resolved.
+Class or Representative Actions: You agree that any Claim you have against the Company must only be resolved on an individual basis and not in a class, consolidated, or representative action or proceeding, regardless of how the Claim is resolved.
 
-Jury Trial Waiver: If, for whatever reason, a court trial should occur, you and Sylke hereby irrevocably waive the right to a trial by jury.
+Jury Trial Waiver: If, for whatever reason, a court trial should occur, you and the Company hereby irrevocably waive the right to a trial by jury.
 
-Rules of Arbitration: Arbitration shall be conducted by one (1) neutral arbitrator appointed by the American Arbitration Association ("AAA") and in accordance with the Terms and the rules of the AAA ("AAA Rules"). If there is a conflict or inconsistency between the Terms and AAA Rules, the Terms shall govern. The arbitrator shall follow the provisions of the Terms as a court would. The arbitrator may award any damages and relief on an individual basis that a court would award to an individual under the Terms and applicable law. Unless Sylke and you agree otherwise, any and all arbitration hearings shall take place in the State of Wisconsin. Any Claim for $1,000 or less shall be conducted solely on the basis of documents submitted to the arbitrator. Any Claim for more than $1,000, but less than $15,000, shall be conducted on the basis of documents submitted to the arbitrator or through a telephonic hearing. Any Claim for more than $15,000 shall be conducted solely by an in-person hearing. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based. Payment of all administration, arbitrator, and filing fees (collectively, "Arbitration Fees") shall be governed by the AAA Rules, except as otherwise provided in the Terms.
+Rules of Arbitration: Arbitration shall be conducted by one (1) neutral arbitrator appointed by the American Arbitration Association ("AAA") and in accordance with the Terms and the rules of the AAA ("AAA Rules"). If there is a conflict or inconsistency between the Terms and AAA Rules, the Terms shall govern. The arbitrator shall follow the provisions of the Terms as a court would. The arbitrator may award any damages and relief on an individual basis that a court would award to an individual under the Terms and applicable law. Unless the Company and you agree otherwise, any and all arbitration hearings shall take place in the State of Wisconsin. Any Claim for $1,000 or less shall be conducted solely on the basis of documents submitted to the arbitrator. Any Claim for more than $1,000, but less than $15,000, shall be conducted on the basis of documents submitted to the arbitrator or through a telephonic hearing. Any Claim for more than $15,000 shall be conducted solely by an in-person hearing. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based. Payment of all administration, arbitrator, and filing fees (collectively, "Arbitration Fees") shall be governed by the AAA Rules, except as otherwise provided in the Terms.
 
 All of the foregoing provisions in this section shall survive any termination of the Terms.
 
 ## 14. Indemnification
 
-You must defend, indemnify, and hold harmless Sylke, its affiliates and subsidiaries, and their respective agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to:
+You must defend, indemnify, and hold harmless the Company, its affiliates and subsidiaries, and their respective agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to:
 
 1. Any Content you post to or with the Services;
 2. Your access to, activities on, and usage of the Services;
@@ -130,9 +130,9 @@ You must defend, indemnify, and hold harmless Sylke, its affiliates and subsidia
 
 **Headings:** Headings are for convenience only and must not be used to construe the meaning of any provision in the Terms.
 
-**Notices:** We will provide legal notices to you by email to the email address associated with your account. You shall provide legal notices to Sylke by email to [legal@sylke.co](mailto:legal@sylke.co). Emailed notices will be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from Sylke electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them to the Services.
+**Notices:** We will provide legal notices to you by email to the email address associated with your account. You shall provide legal notices to the Company by email to [legal@typicalbot.com](mailto:legal@typicalbot.com). Emailed notices will be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from the Company electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them to the Services.
 
-**Choice of Law:** The laws of the United States of America and the State of Wisconsin shall govern the Terms and any claim or dispute of any sort that might arise under the Terms between Sylke and you, without regard to its choice of law provisions.
+**Choice of Law:** The laws of the United States of America and the State of Wisconsin shall govern the Terms and any claim or dispute of any sort that might arise under the Terms between the Company and you, without regard to its choice of law provisions.
 
 **Jurisdiction and Venue:** All claims, disputes, litigation, or other legal proceedings arising in connection with the Terms or your use of the Services must be brought and settled in a federal or state court in the State of Wisconsin.
 
@@ -140,6 +140,6 @@ You must defend, indemnify, and hold harmless Sylke, its affiliates and subsidia
 
 **Survival:** The provisions of the Terms that by their nature should survive termination will survive any termination of the Terms, including, without limitation, disclaimers, limitations of liability, ownership provisions, warranty disclaimers, and miscellaneous provisions.
 
-**Waivers:** No failure or delay by Sylke in exercising any right will waive any further exercise of that right. In addition, no waiver of any breach or default of the Terms will waive any preceding or subsequent breach or default.
+**Waivers:** No failure or delay by the Company in exercising any right will waive any further exercise of that right. In addition, no waiver of any breach or default of the Terms will waive any preceding or subsequent breach or default.
 
-**Entire Agreement:** The Terms constitute the entire agreement between Sylke and you concerning the subject matter hereof and supersedes all prior agreements regarding the same, whether oral or written.
+**Entire Agreement:** The Terms constitute the entire agreement between the Company and you concerning the subject matter hereof and supersedes all prior agreements regarding the same, whether oral or written.
