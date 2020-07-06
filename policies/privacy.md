@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-effectiveDate: 2020-06-18T20:29:00-05:00
+effectiveDate: '2020-06-18T20:29:00-05:00'
 ---
 
 TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the Sites located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions at [https://typicalbot.com/terms](https://typicalbot.com/terms) ("Terms") and this privacy policy ("Policy").
