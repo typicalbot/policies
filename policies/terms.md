@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-effectiveDate: 06/18/2020
+effectiveDate: 2020-06-18T20:29:00-05:00
 ---
 
 TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the website located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions ("Terms").
