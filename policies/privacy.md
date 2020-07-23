@@ -3,7 +3,7 @@ title: Privacy Policy
 effectiveDate: '2020-06-18T20:29:00-05:00'
 ---
 
-TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the Sites located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions at [https://typicalbot.com/terms](https://typicalbot.com/terms) ("Terms") and this privacy policy ("Policy").
+TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the Sites located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions at [https://typicalbot.com/legal/terms](https://typicalbot.com/legal/terms) ("Terms") and this privacy policy ("Policy").
 
 The Terms govern your access to and use of TypicalBot, and the images, information, links, sounds, text, videos, and other content made available through the Sites (collectively, "Services"). By using the Services, you agree to the Policy. If you do not agree with the Policy, you may not use the Services.
 
@@ -45,4 +45,4 @@ You have the right to request a copy of any of your personal information that th
 
 ## 8. Modifications
 
-The Company may modify this Policy from time to time. The most current version of this Policy will be available at [https://typicalbot.com/privacy](https://sylke.co/privacy). By using the Website after any changes to this Policy become effective, you agree to the modified Policy.
+The Company may modify this Policy from time to time. The most current version of this Policy will be available at [https://typicalbot.com/legal/privacy](https://sylke.co/legal/privacy). By using the Website after any changes to this Policy become effective, you agree to the modified Policy.
