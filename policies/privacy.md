@@ -45,4 +45,4 @@ You have the right to request a copy of any of your personal information that th
 
 ## 8. Modifications
 
-The Company may modify this Policy from time to time. The most current version of this Policy will be available at [https://typicalbot.com/legal/privacy](https://sylke.co/legal/privacy). By using the Website after any changes to this Policy become effective, you agree to the modified Policy.
+The Company may modify this Policy from time to time. The most current version of this Policy will be available at [https://typicalbot.com/legal/privacy](https://typicalbot.com/legal/privacy). By using the Website after any changes to this Policy become effective, you agree to the modified Policy.
