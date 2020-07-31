@@ -5,11 +5,7 @@ effectiveDate: '2020-08-14T00:00:00-05:00'
 
 The security of your data is important to us. In this Security Policy, we describe how we maintain the security of data.
 
-When we use the terms "Company", "we", "our", or "us" in this document, we are referring to **TypicalBot LLC**.
-
-When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company.
-
-When we use the term "Website" in this document, we mean the Company’s website located at [https://typicalbot.com](https://typicalbot.com).
+When we use the terms "Company", "we", "our", or "us" in this document, we are referring to **TypicalBot LLC**. When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company When we use the term "Website" in this document, we mean the Company’s website located at [https://typicalbot.com](https://typicalbot.com).
 
 This policy applies to the Services and the Website.
 
