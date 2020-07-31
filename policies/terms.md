@@ -1,148 +1,215 @@
 ---
 title: Terms of Service
-effectiveDate: '2020-06-18T20:29:00-05:00'
+effectiveDate: '2020-08-14T00:00:00-05:00'
 ---
 
-TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the website located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions ("Terms").
+**TypicalBot** provides its products and services to you subject to these **Terms of Service**.
 
-The Terms govern your access to and use of TypicalBot, and the images, information, links, sounds, text, videos, and other content made available through the Website (collectively, "Services"). By using the Services, you agree to the Terms. If you do not agree with the Terms, you may not use the Services.
+When we use the terms "Company", "we", "our", or "us" in this document, we are referring to **TypicalBot LLC**.
 
-PLEASE READ THE TERMS CAREFULLY, AS THEY CONTAIN PROVISIONS THAT MAY AFFECT YOUR LEGAL RIGHTS, INCLUDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS IN SECTION 13 THAT GOVERN HOW DISPUTES BETWEEN YOU AND TYPICALBOT WILL BE RESOLVED.
+When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company. When we use the term "Website" in this document, we mean the Company’s website located at [https://typicalbot.com](https://typicalbot.com). When we use the term "Materials" in this document, we mean the applications, code, data, images, information, links, sounds, text, videos and other content or materials made available by the Services and the Website.
 
-## 1. Eligibility
+When we use the terms "you" and "your" in this document, we mean you as a user of the Services.
 
-You may access and use the Services only if you are at least 13 years old. If you are at least the requisite age, but are still a minor in your jurisdiction, you must have your parent or legal guardian's permission to use the Services. Additionally, you must only use the Services in compliance with the Terms, and all applicable federal, state and local laws and regulations.
+These Terms of Service govern your access to and use of (a) the Services, (b) the Website, and (c) the Materials.
 
-## 2. Our Property
+THESE TERMS OF SERVICE FORM A LEGALLY BINDING AGREEMENT, SO PLEASE READ THEM CAREFULLY. THESE TERMS OF SERVICE CONTAIN PROVISIONS THAT AFFECT YOUR LEGAL RIGHTS, INCLUDING LIMITATIONS OF LIABILITY PROVISIONS IN SECTION 13 AND ARBITRATION AND CLASS ACTION WAIVER PROVISIONS IN SECTION 20.
 
-All interest in the Services and their components shall remain our exclusive property or the property of our licensors. You shall not acquire any ownership interest in the Services by downloading or using the Services. Subject to the Terms, we grant you a non-exclusive, non-sublicensable, revocable and worldwide license to access and use the Services as provided by us and in a manner permitted by the Terms. Unless you have our express written permission, you must not decompile, reverse assemble or reverse engineer the Services.
+If you breach or violate these Terms of Service, we may terminate your access to the Services.
 
-## 3. User Content
 
-As between you and the Company, all interest you have in any content that you display, distribute, post, transmit or upload ("post") in connection with the Services ("User Content") shall remain your property. However, you hereby grant us a non-exclusive, royalty-free, transferable and worldwide license to adapt, display, distribute, host, modify (in whole or in part), publicly display, publicly perform, store and use such User Content using any methods now known or later developed for the sole purpose of allowing us to provide the Services to you.
+## 1) Acceptance and Acknowledgment
 
-For User Content that you post to or through the Services, you represent and warrant that: (a) You have the right to post such User Content and are able to grant the licenses set forth herein; (b) We will not need to obtain licenses from or pay royalties to any third party in connection with such User Content; and (c) Such User Content does not infringe upon any third party’s rights, including without limitation, intellectual property, privacy and publicity rights.
+1. If you use the Services, you accept and agree to these Terms of Service. If you use the Services on behalf of a business or other legal entity, you must have the authority to bind that entity to these Terms of Service, in which case the terms "you" or "your" are referring to that entity. If you do not have the authority necessary to bind such entity to these Terms of Service, you shall not accept these Terms of Service and shall not use the Services on behalf of such entity.
+2. If you use certain features or portions of the Services, you may be subject to additional terms applicable to those certain features or portions of the Services ("Additional Terms"). Additional Terms, if any, will be made available and posted within the Services when they apply. Additional Terms may be modified from time to time, and are hereby incorporated by reference into these Terms of Service.
+3. If you do not accept or agree with any of these Terms of Service, you shall not access or use the Services.
 
-We do not guarantee or warrant the accuracy, reliability or truthfulness of any User Content. We shall not be liable for any errors or omissions in any User Content. We reserve the right, but have no obligation, to delete or remove any User Content that may violate the Terms or any applicable laws and regulations.
 
-If you send us any feedback or suggestions, you agree that we may implement such feedback without any compensation to you.
+## 2) Eligibility
 
-## 4. Your Conduct
+In order to use the Services, you must be at least 16 years of age, you must have permission from your parent or legal guardian if you are younger than the age of majority in your jurisdiction, and you must not be barred from receiving the Services under applicable law. You must only use the Services in compliance with these Terms of Service and all applicable federal, state, and local laws and regulations. If you use the Services, you represent and warrant to us that these things are true.
 
-In accessing or using the Services, you agree that you will not:
 
-1. Abuse, defame, harass, intimidate, libel, mock, stalk or threaten any person or group of people;
-2. Access, tamper with or use computer or networking systems that you are not authorized to access;
-3. Breach or circumvent any authentication or security measures within the Services;
-4. Compromise the security of the Services;
-5. Collect information about other people without their consent;
-6. Exploit or harm minors;
-7. Post User Content that contains malware, viruses or other malicious code;
-8. Post User Content that contains incitements to violence or that is discriminatory, hateful or sexually explicit (e.g. pornography);
-9. Post spam;
-10. Use the Services for any purpose that is illegal or prohibited by the Terms;
-11. Attempt any of the foregoing activities and conduct; or
-12. Direct a third party to perform any of the foregoing activities and conduct.
+## 3) Our Property
 
-If we believe you are violating any of the provisions in this section, we may limit, suspend or terminate your access to the Services. Furthermore, we may delete or remove any of your hosted or stored User Content and/or take action to prevent you from using the Services.
+1. All rights, title, and interest in and to the Services and the Website, including the names, look, and feel of the Services and the Website, are the exclusive property of the Company or our licensors. All rights reserved.
+2. You shall not acquire any ownership interest in or to the Services by accessing, downloading, or using the Services.
+3. You shall not alter, edit, hide, modify, obscure, or remove any legal and proprietary notices contained within the Services.
+4. You shall not copy, duplicate, sell, reproduce, resell, or exploit any portion of the Services, access to the Services, or use of the Services without the express written permission of the Company.
+5. You shall not copy, duplicate, or use the Company’s branding and logos, and any branding, icons, and logos contained within the Services, without express written permission from the Company.
+6. You shall not copy, duplicate, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements of the Website without express written permission from the Company.
 
-You are solely responsible for your interactions with other users of the Services and other parties that you come in contact with through the Services. We hereby disclaim any and all liability to you or any third party relating to any dispute you have with other users of the Services. We reserve the right, but have no obligation, to mediate or manage disputes between you and other users of the Services.
 
-## 5. Billing
+## 4) Your Property
 
-If you elect to purchase any of our paid services ("Paid Services"), fees are specified at the Services interface "check-out" and shall be paid in advance. The fees specified are exclusive of any taxes. You are responsible for any taxes associated with your purchases from us. If you fail to pay any applicable fees when due, we reserve the right to terminate your access to the Paid Services.
+All rights you have in any Materials that you create, distribute, post, publish, send, submit, transmit, upload or otherwise provide to the Services shall remain yours, unless otherwise specified in these Terms of Service.
 
-We will automatically bill your account from the date you purchase the Paid Services and on each periodic renewal until you cancel the Paid Services. You may cancel the Paid Services at any time. If you cancel the Paid Services, such cancellation shall be effective at the end of your then-current subscription period and you may continue to access and use the Paid Services until such time, unless your access to the Paid Services is suspended or terminated earlier as set forth in the Terms.
 
-We shall honor refund requests for a period of 7 days from the date on which you first purchase Paid Services by providing a full refund upon request. If we honor a refund request from you, we reserve the right to terminate your access to Paid Services immediately. No refund requests will be honored after such period.
+## 5) Licenses Granted by Us
 
-If you dispute any amounts paid or payable by you, you must notify the Company in writing and provide such written notice to us within sixty (60) days of the applicable charge to your account. If you do not provide the Company with a written notice within sixty (60) days, you will not be entitled to dispute or recover any applicable amounts paid or payable by you.
+1. We hereby grant you a limited, non-assignable, non-exclusive, non-sublicensable, non-transferable, personal, revocable, and worldwide license to access and use the Services as provided by the Company for the sole purpose of enabling you to enjoy the benefit of the Services, subject to these Terms of Service and the payment of all applicable fees. Unless you have our express written permission, you shall not (i) alter, decompile, deobfuscate, modify, reverse assemble, or reverse engineer the Services, or (ii) assign, copy, distribute, lease, redistribute, reproduce, rent, resell, sell, sublicense, transfer or otherwise exploit or make the Services available to any third party.
+2. Upon any termination of these Terms of Service, the licenses and rights granted to you in this section shall be immediately revoked and terminated, and you shall have no further right to access and use the Services.
 
-## 6. Disclaimers
 
-We reserve the right to modify the functionality of the Services at any time. Furthermore, we reserve the right to discontinue providing the Services at any time, provided we give you prior notice, which we shall deliver to you by email to the email address associated with your account.
+## 6) Licenses Granted by You
 
-WE PROVIDE THE SERVICES ON AN "AS IS" BASIS AND WITHOUT ANY WARRANTIES. YOU USE THE SERVICES AT YOUR OWN RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. Without limiting the foregoing, we make no warranties:
+1. By creating, distributing, posting, publishing, submitting, transmitting, uploading or otherwise providing or using any Materials with the Services, you grant the Company an assignable, non-exclusive, perpetual, royalty-free, transferable, unrestricted, and worldwide license and right to adapt, communicate, copy, display, distribute, host, modify (in whole or in part), perform, process, publish, reproduce, store, sublicense, translate, transmit, use, and create derivative works of such Materials using any means, mediums, or methods now known or later developed for the sole purpose of operating and providing the Services. In addition, by making any Materials available to users of the Services, you grant those users a non-exclusive license to access and use those Materials in connection with the Services.
+2. If you give or make any comments, feedback, ideas, recommendations, or suggestions ("Feedback") to the Company, you hereby assign all rights, title, and interest in and to such Feedback to the Company without charge. You acknowledge and agree that we shall be free to commercialize, exploit, implement, share, and use any Feedback you provide to us in any way and for any purpose. We shall not be liable to you or any third party for any disclosure, exploitation, implementation, or use of any Feedback. You shall not give the Company any Feedback that is subject to any license.
 
-1. Concerning User Content posted on or through the Services;
-2. Concerning resources outside of the Services;
-3. That any User Content you post to the Services will be made available on the Services;
-4. That the Services will be accessible from all devices;
-5. That the Services will be error-free and uninterrupted; or
-6. That the Services will meet your professional needs.
 
-## 7. Limitation of Liability
+## 7) Accounts and Registration
 
-To the fullest extent permitted by law:
+1. When you register for an account, you shall provide accurate, complete, and current information and you agree to keep that information accurate and current.
+2. You are responsible for all activity that occurs under your account.
+3. You are responsible for maintaining the security of your account and password. The Company shall not be liable for any damage or loss from your failure to comply with this provision.
 
-1. We shall not be liable for any direct, indirect, consequential, exemplary or incidental damages, including without limitation, damages for loss of business, data, goodwill or profit;
-2. Our total liability to you for any and all claims shall be limited to and not exceed the amount paid by you to the Company or five hundred dollars (USD $500.00), whichever is greater; and
-3. In all cases, we shall not be liable or responsible to you or any third party for any damages or losses that are not reasonably foreseeable.
 
-To the extent any of the foregoing disclaimers or limitations of liability do not apply to you, all applicable implied and statutory warranties shall be limited to the fullest extent permitted by law for the minimum period required by law and no warranties shall apply after such period.
+## 8) Fees
 
-## 8. Privacy
+1. Your access to and use of the Services is contingent upon your payment of all applicable fees as described within the Services. You shall pay all such fees in a timely manner and with a valid payment method in United States Dollars. We accept major credit cards, certain debit cards, and/or such other payment methods we may make available to you from time to time through the Services ("Payment Method"), as forms of payment.
+2. When we make portions of the Services available to you without charge (whether as part of a beta release, free trial, proof-of-concept implementation, or otherwise), we may terminate your access to those portions of the Services at any time for any or no reason.
+3. All fees are exclusive of all taxes, levies, and duties imposed by taxing authorities. Where required by law, we will collect those taxes and remit them to the appropriate taxing authorities. Otherwise, you are solely responsible for the payment of all taxes, levies, and duties.
+4. If you fail to pay any applicable fees when due, or if we attempt to charge your Payment Method and we do not receive payment, we will freeze your account and the Services will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for cancellation. You shall pay all amounts due on your account immediately upon demand and reimburse the Company for any and all chargebacks, claims, fees, fines, penalties, reversals and other liability incurred by the Company (including costs and related expenses).
+5. We reserve the right, but have no obligation, to refund any payments you make to the Company, in full or in part, at our sole discretion.
+6. We reserve the right to cancel or reject any payments from you or prevent you from initiating future payments for any reason or no reason.
 
-Our [Privacy Policy](https://typicalbot.com/legal/privacy) describes the information we collect from you, to whom we disclose your information to and for what purpose, and how we collect, process, store, transfer and use your information. In most cases, we need to collect, disclose, process, store, transfer and use information about you in order to provide the Services to you. By using the Services, you acknowledge that you have read and understand, and you consent to our collection, disclosure, processing and storage of your data and information, as set forth in the Privacy Policy, which is incorporated herein by reference. We may modify the Privacy Policy at any time and for any reason. If we make any modifications to the Privacy Policy, we will notify you by email and ask you to confirm your acceptance and consent to the modified Privacy Policy.
 
-## 9. Term and Termination
+## 9) Materials and Content
 
-The Terms begins on the date of electronic acceptance or on the date you first access or use the Services and continues so long as you access or use the Services or have an account with us, whichever is longer. You may terminate your agreement with the Company at any time by deactivating and/or deleting your account with the Company and no longer accessing or using the Services. We may terminate the Terms at any time by providing seven (7) days notice.
+1. All Materials are the sole responsibility of the entity or person that makes the Materials available. Any reliance on or use of any Materials downloaded or obtained from or through the Services by you is solely at your own risk. Some Materials may be disrespectful, harmful, offensive or otherwise inappropriate or objectionable and you may be exposed to such Materials while using the Services.
+2. We do not endorse, guarantee, represent, support, or warrant the accuracy, completeness, reliability, truthfulness, or usefulness of any Materials, nor the ideas and opinions expressed through any Materials. Under no circumstances shall we be liable or responsible for any errors or omissions in any Materials, or any damage or loss of any kind incurred as a result of the use of any Materials. We reserve the right, but have no obligation, to delete or remove any Materials that violate these Terms of Service or any applicable laws and regulations.
+3. You are solely responsible for your use of the Services and any Materials that you provide to the Services, including compliance with all applicable laws and regulations. For Materials that you provide to the Services, you represent and warrant to the Company that:
+    1. You own or have the right to provide such Materials, and are able and willing to grant the licenses set forth in these Terms of Service;
+    2. We will not need to obtain licenses from or pay royalties to any third party in connection with such Materials;
+    3. Such Materials complies with these Terms of Service and all applicable laws; and
+    4. Such Materials do not infringe upon any third party’s rights, including intellectual property rights, privacy rights, and publicity rights.
 
-If you breach the Terms, we may, at our option: (a) terminate the Terms immediately, with or without advance notice; and (b) delete, limit, suspend, or terminate access to the Services and your account. If we disable, suspend, or terminate your access to the Services, or if we deactivate or delete your account, you may not attempt to access the Services or create a new account without our written consent and permission to do so.
 
-If we delete your account for any reason, any Content associated or posted with your account may no longer be available. We will not be liable or responsible to you or any third party for any loss of such Content.
+## 10) Restrictions on Use
 
-## 10. Third Party Content
+You agree that you shall not use the Services to:
 
-The Services may contain content that does not belong to the Company ("Third Party Content") in order to help provide the Services to you, but such use does not indicate that we endorse the Third Party Content and we are not responsible for their actions.
+1. Collect personal information from others without their consent;
+2. Damage, disrupt, impair, overburden or otherwise negatively affect the operation of the Services;
+3. Distribute anything that qualifies as malware or spyware;
+4. Exploit or harm minors;
+5. Extort or steal from others;
+6. Harass or threaten others;
+7. Impersonate others;
+8. Perpetrate, plan, or threaten any activity that qualifies as violence;
+9. Send Materials that contain incitements to violence or threats of any kind;
+10. Send Materials that are defamatory, discriminatory, or hateful;
+11. Send Materials that are sexually explicit (e.g. pornography);
+12. Send spam to others;
+13. Share the private personal information of others for the purposes of harassment;
+14. Violate any applicable law, ordinance, or regulation; or
+15. Violate the rights of others.
 
-The Services may link to third party websites, some of which may use materials under license from the Company. We are not responsible for these third party websites or the organizations operating or sponsoring such third party websites, or their products or services, nor do we endorse or support such third party websites, whether or not we are affiliated with such third party websites.
+Furthermore, you agree that you shall not:
 
-## 11. Assignment and Beneficiaries
+16. Access or use another user’s account or account credentials;
+17. Access or use areas or features of the Services that you are not authorized or meant to access;
+18. Access or use the Services by automated means or methods;
+19. Circumvent authentication and security measures of the Services;
+20. Compromise the security of the Services or the users of the Services; or
+21. Probe, scan, or test the vulnerability of the Services.
 
-You shall not assign the Terms and any attempted assignment of the Terms by you shall be null and void. The Terms are freely assignable by the Company. We may also permit third parties to exercise our rights or perform our obligations under the Terms. The Terms do not create any third party beneficiary rights.
 
-## 12. Amendment
+## 11) Subscriptions
 
-We reserve the right to amend or modify the Terms at any time and for any reason. When we amend the Terms, we will notify you by email prior to such amendments taking effect. The Terms must not be amended by you and any attempted amendment by you will be null and void. Neither the course of conduct between the parties nor trade practice will act to amend the Terms.
+1. When you purchase a subscription in relation to the Services, you authorize the Company to charge your Payment Method immediately and on a recurring (e.g. monthly or yearly) basis for the applicable subscription charge, any and all taxes, any and all transaction fees, and any other charges related to your subscription.
+2. Subscriptions shall automatically renew at the end of your applicable subscription period, unless you cancel your subscription before the end of the current subscription period.
+3. If you cancel a subscription before the end of your current subscription period, your cancellation shall take effect at the end of the current subscription period, and you will not be charged again. You will continue to have access to the Services until the end of the current subscription period, unless your access is terminated earlier in accordance with these Terms of Service.
+4. We may change the price of any subscriptions from time to time. When we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about price changes on our Website or the affected Services themselves. Price changes for subscriptions shall take effect at the start of the next applicable subscription period following the date of the price change.
 
-## 13. Arbitration
 
-Arbitration or Mediation: You agree that any and all future, past, and present claims or disputes you may have against the Company arising out of, in connection with, or relating to the Terms and the Services (a "Claim") must be resolved by arbitration or mediation. For the avoidance of doubt and clarification, this means that any Claim you have will not be resolved by a judge or jury in a court of law.
+## 12) Disclaimers
 
-Class or Representative Actions: You agree that any Claim you have against the Company must only be resolved on an individual basis and not in a class, consolidated, or representative action or proceeding, regardless of how the Claim is resolved.
+1. We reserve the right at any time to change and discontinue (temporarily or permanently) any part of the Services at any time with or without notice to you. Additionally, we reserve the right to add, change, or remove features and functionality from the Services with or without notice to you.
+2. You must provide your own access (e.g., device, internet connection, etc.) to the Services.
+3. You use the Services at your own risk. We provide the Services on an "as available", "as is", and "with all faults" basis and without any promises, representations, or warranties whatsoever.
+4. To the fullest extent permitted by law, we expressly disclaim any and all warranties of any kind, whether express, implied, or statutory, including, but not limited to, warranties of accuracy, availability, fitness for a particular purpose, functionality, merchantability, non-infringement, performance, quality, reliability, title, usefulness and any other warranty that might arise under any law. Without limiting the foregoing, we make no promises that the Services will be: (i) available or permitted in your jurisdiction; (ii) compliant with all applicable laws in your jurisdiction; (iii) error-free and uninterrupted; and (iv) meet your business or professional needs.
+5. To the extent any of the foregoing disclaimers or limitations of liability do not apply to you, all applicable implied and statutory warranties shall be limited to the fullest extent permitted by law for the minimum period required by law and no warranties shall apply after such period.
 
-Jury Trial Waiver: If, for whatever reason, a court trial should occur, you and the Company hereby irrevocably waive the right to a trial by jury.
 
-Rules of Arbitration: Arbitration shall be conducted by one (1) neutral arbitrator appointed by the American Arbitration Association ("AAA") and in accordance with the Terms and the rules of the AAA ("AAA Rules"). If there is a conflict or inconsistency between the Terms and AAA Rules, the Terms shall govern. The arbitrator shall follow the provisions of the Terms as a court would. The arbitrator may award any damages and relief on an individual basis that a court would award to an individual under the Terms and applicable law. Unless the Company and you agree otherwise, any and all arbitration hearings shall take place in the State of Wisconsin. Any Claim for $1,000 or less shall be conducted solely on the basis of documents submitted to the arbitrator. Any Claim for more than $1,000, but less than $15,000, shall be conducted on the basis of documents submitted to the arbitrator or through a telephonic hearing. Any Claim for more than $15,000 shall be conducted solely by an in-person hearing. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based. Payment of all administration, arbitrator, and filing fees (collectively, "Arbitration Fees") shall be governed by the AAA Rules, except as otherwise provided in the Terms.
+## 13) Limitation of Liability
 
-All of the foregoing provisions in this section shall survive any termination of the Terms.
+To the fullest extent permitted by law, we shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, consequential, exemplary, incidental, punitive, or special damages, including, but not limited to, damages for loss of business, data, goodwill, income, opportunity, profit, revenue, sales, use and other financial and intangible losses (even if the Company has been advised of the possibility of such damages) resulting from (i) the use or inability to use the Services; (ii) unauthorized access to or alteration of your data or transmissions; (iii) the cost of procurement of substitute goods and services resulting from any goods or services purchased or obtained or messages received or transactions entered into through or from the Services; or (iv) any other matter relating to these Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability. Our total liability to you for any and all claims, including for any implied warranties, shall be limited to and not exceed the amounts paid by you to the Company or twenty dollars (USD $20.00), whichever is greater. In all cases, we shall not be liable or responsible to you or any third party for any damages or losses that are not reasonably foreseeable.
 
-## 14. Indemnification
 
-You must defend, indemnify, and hold harmless the Company, its affiliates and subsidiaries, and their respective agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to:
+## 14) Indemnification
 
-1. Any Content you post to or with the Services;
-2. Your access to, activities on, and usage of the Services;
-3. Your breach of the Terms;
-4. Your violation of any third party rights, including, but not limited to, any intellectual property, privacy, or publicity rights; or
-5. Your violation of any law or regulation.
+You agree to indemnify us, our affiliates and subsidiaries, and all of our agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to: (i) any Materials you provide to the Services; (ii) your access to, activities on, and usage of the Services; (iii) your access to, activities on, and usage of third party services; (iv) your breach of these Terms of Service or any Additional Terms, or any agreement or contract you have with a third party; (v) your violation of any third party rights, including, but not limited to, any intellectual property, privacy, or publicity rights; and (vi) your violation of any law, ordinance, or regulation.
 
-## 15. General Provisions
 
-**Headings:** Headings are for convenience only and must not be used to construe the meaning of any provision in the Terms.
+## 15) Privacy
 
-**Notices:** We will provide legal notices to you by email to the email address associated with your account. You shall provide legal notices to the Company by email to [legal@typicalbot.com](mailto:legal@typicalbot.com). Emailed notices will be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from the Company electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them to the Services.
+1. Our Privacy Policy (located at [https://typicalbot.com/policies/privacy](https://typicalbot.com/policies/privacy)) describes the information we collect from you, to whom we share that information with and for what purpose, and what we do with that information. When you use the Services, you accept and agree that we may process and use your data and information as set forth in the Privacy Policy.
+2. The humans at the Company may access your data and information for the following reasons:
+    1. **To help you with your support requests.** We will ask you for your consent before accessing the data associated with your account.
+    2. **To safeguard the Services.** We will look at logs and metadata as part of our work to ensure the security of the Services and your data.
+    3. **To comply with the law.** We will only preserve or share your data if we are compelled to do so by a government authority in the United States of America with a legally binding order. When we receive such an order, we’ll notify you, unless the order prohibits us from doing so. Whenever possible, we will refuse to preserve or share any data with any government authority.
 
-**Choice of Law:** The laws of the United States of America and the State of Wisconsin shall govern the Terms and any claim or dispute of any sort that might arise under the Terms between the Company and you, without regard to its choice of law provisions.
 
-**Jurisdiction and Venue:** All claims, disputes, litigation, or other legal proceedings arising in connection with the Terms or your use of the Services must be brought and settled in a federal or state court in the State of Wisconsin.
+## 16) Third Parties
 
-**Severability:** If any provision of the Terms is found and held to be invalid, unenforceable or void, the arbitrator or court shall endeavor to give effect to the parties’ intentions as reflected in the provision, and all other provisions of the Terms will remain in full force and effect.
+1. We use third party vendors to provide the necessary technology required to run the Services. Our use of any third party vendor does not indicate that we endorse that third party vendor. We shall not be liable or responsible for the actions or inactions of any third party vendor.
+2. The Services may link to third party content and third party websites, some of which may use Materials under license from the Company. We do not endorse or support these third party websites.
+3. You acknowledge that these Terms of Service are between the Company and you only.
 
-**Survival:** The provisions of the Terms that by their nature should survive termination will survive any termination of the Terms, including, without limitation, disclaimers, limitations of liability, ownership provisions, warranty disclaimers, and miscellaneous provisions.
 
-**Waivers:** No failure or delay by the Company in exercising any right will waive any further exercise of that right. In addition, no waiver of any breach or default of the Terms will waive any preceding or subsequent breach or default.
+## 17) Term and Termination
 
-**Entire Agreement:** The Terms constitute the entire agreement between the Company and you concerning the subject matter hereof and supersedes all prior agreements regarding the same, whether oral or written.
+1. These Terms of Service begin on the date of electronic acceptance or on the date you first access or use the Services, whichever comes first.
+2. If you breach these Terms of Service, we may terminate your access to the Services immediately, with or without advance notice. If we disable, suspend, or terminate your access to the Services, or if we deactivate or delete your account, you shall not attempt to access the Services or create a new account without our express written consent and permission to do so.
+3. In the event of any expiration or termination of these Terms of Service, the following sections shall survive: Section 3 (Our Property), Section 4 (Your Property), Section 9 (Content and Materials), Section 12 (Disclaimers), Section 13 (Limitation of Liability), Section 14 (Indemnification), Section 15 (Privacy), Section 16 (Third Parties), Section 18 (Assignment and Beneficiaries), Section 20 (Dispute Resolution), Section 21 (Rights and Remedies), and Section 22 (Miscellaneous Provisions).
+
+
+## 18) Assignment and Beneficiaries
+
+You shall not assign or transfer these Terms of Service, but these Terms of Service may be assigned or transferred by the Company. We may also permit third parties to exercise our rights or perform our obligations under these Terms of Service. These Terms of Service do not create any third party beneficiary rights.
+
+
+## 19) Changes to the Terms
+
+We may change these Terms of Service in the future. Whenever we make a significant change to these Terms of Service, we will let you know by email and post a notice on the Services and the Website. When you use the Services, you are agreeing to the latest Terms of Service currently in effect.
+
+
+## 20) Dispute Resolution
+
+1. **Arbitration or Mediation:** You agree that any and all future, past, and present claims or disputes you may have against the Company arising out of, in connection with, or relating to these Terms of Service, the Services, or your relationship with the Company (a "Claim"), shall be resolved by arbitration or mediation. For the avoidance of doubt and clarification, this means that any Claim you have will not be resolved by a judge or jury in a court of law. For the purposes of these Terms of Service, a Claim shall have the broadest possible meaning and include claims based in common law, contract, fraud, misrepresentation, regulation, statute, tort or any other legal theory.
+2. **Class or Representative Actions:** You agree that any Claim you have against the Company shall only be resolved on an individual basis** **and not on behalf of, or as part of, any purported class, consolidated, or representative action or proceeding, regardless of how the Claim is resolved.
+3. **Equitable Relief:** You hereby irrevocably waive your right to seek equitable relief** **of any kind, including, but not limited to, injunctive relief against the Company and their affiliates, agents, contractors, directors, employees, officers, and representatives.
+4. **Trial Waivers:** You hereby irrevocably waive your right to a trial. If, for whatever reason, a trial should occur, you hereby irrevocably waive your right to a trial by jury.
+5. **Notice:** You shall provide the Company with written notice of any Claim you have against the Company (a "Claim Notice") prior to initiating any arbitration, mediation, or litigation proceeding. A Claim Notice shall describe the basis and nature of the Claim, describe the specific relief requested, and include the contact information of the party giving notice. A Claim Notice shall be sent to the Company by email to _claims@typicalbot.com_ and by certified mail to our registered agent at _2800 E. Enterprise Ave, Ste 333, Appleton, WI 54913_. You hereby agree to give the Company a reasonable opportunity to resolve the Claim stated in any Claim Notice. If the Company and you do not resolve the Claim within ninety (90) days after the Claim Notice is received, only then may the Company or you commence an arbitration or mediation proceeding.
+6. **Rules of Arbitration:** Arbitration shall be conducted by one (1) neutral arbitrator in accordance with these Terms of Service and the rules of the American Arbitration Association ("AAA"). If there is a conflict or inconsistency between these Terms of Service and the rules of the AAA, these Terms of Service shall govern. The arbitrator shall follow the provisions of these Terms of Service as a court would. The arbitrator may award any damages and relief on an individual basis that a court would award to an individual under these Terms of Service and applicable law. Unless the Company and you agree otherwise, any and all arbitration hearings shall take place in the State of Minnesota. Any Claim for $5,000.00 or less shall be conducted solely on the basis of documents submitted to the arbitrator. Any Claim for more than $5,000.00, but less than $20,000.00, shall be conducted on the basis of documents submitted to the arbitrator or through a telephonic hearing. Any Claim for more than $20,000.00 shall be conducted solely by an in-person hearing. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based. Payment of all administration, arbitrator, and filing fees shall be governed by the rules of the AAA, except as otherwise provided in these Terms of Service.
+
+All of the foregoing provisions in this section shall survive any termination of these Terms of Service.
+
+
+## 21) Rights and Remedies
+
+1. The rights granted and obligations made under these Terms of Service are of a unique and irreplaceable nature, the loss of which may result in immediate and irreparable harm to the Company for which remedies at law are inadequate. Therefore, we shall be entitled to seek equitable relief, including injunctive relief, without the obligation to post any bond or surety, in the event of any breach or anticipatory breach by you.
+2. We reserve all rights not expressly granted to you herein. The rights and remedies granted to the Company hereunder are cumulative and not exclusive. We reserve the right to object to claims, subpoenas or other demands.
+
+
+## 22) Miscellaneous Provisions
+
+1. **Conflicts:** If there is a conflict or inconsistency between these Terms of Service and any Additional Terms, the Additional Terms shall govern for that conflict or inconsistency.
+2. **Electronic Form:** You hereby waive any and all defenses you may have based on the electronic form of these Terms of Service and the lack of signing by the parties hereto to execute these Terms of Service.
+3. **Headings:** Headings are for convenience only and shall not be used to construe the meaning of any provision in these Terms of Service.
+4. **Interpretation:** These Terms of Service shall not be construed against the Company by virtue of having drafted them.
+5. **Notices:** We will provide notices to you by email to the email address we have on record for you. You shall provide notices to the Company by email to _legal@typicalbot.com_. Emailed notices shall be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from the Company electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them on the Website or the Services.
+6. **Documentation:** Upon our request, you shall furnish to us any documentation, substantiation, or releases necessary to verify your compliance with these Terms of Service.
+7. **Force Majeure:** We shall not be liable or responsible to you for failure to perform any of our obligations under these Terms of Service if such failure is as a result of: (i) an act of God, earthquake, fire, flood, hurricane, storm or other natural disaster, or any failure or interruption of electricity, internet, or telephone service; (ii) an act of confiscation, embargo, foreign enemies, government sanction, hostilities (regardless of whether war is declared), insurrection, invasion, nationalization, protest, rebellion, revolution, riot, terrorist activities, or war; or (iii) a labor dispute, lockout, or strike.
+8. **Governing Law:** The laws of the United States of America and the State of Minnesota shall govern these Terms of Service and any claim or dispute of any sort that might arise between us and you, without regard to any choice of law, conflicts of law, or similar principles and without regard to your location.
+9. **Jurisdiction and Venue:** All litigation or other legal proceedings resulting from these Terms of Service or the Services shall be brought and settled in a federal or state court in the State of Minnesota, and you hereby irrevocably agree and consent to the jurisdiction of and venue in those courts and waive any objection as to inconvenient forum and personal jurisdiction.
+10. **Severability:** If any provision of these Terms of Service is found or held to be illegal, invalid, unenforceable, or void, the arbitrator or court shall endeavor to give effect to the parties’ intentions as reflected in the provision, and all other provisions of these Terms of Service shall remain in full force and effect.
+11. **Survival:** The terms and provisions of these Terms of Service that by their nature should survive termination shall survive any termination of these Terms of Service.
+12. **Waivers:** No failure or delay by the Company in exercising any right shall waive any further exercise of that right. In addition, no waiver of any breach or default of these Terms of Service shall waive any preceding or subsequent breach or default.
+13. If you have any questions about these Terms of Service, you may contact the Company via email to _legal@typicalbot.com_.
+
+
+## 23) Entire Agreement
+
+These Terms of Service constitute the entire agreement and understanding between the Company and you concerning your use of the Services and any other subject matter hereof. These Terms of Service supersede all prior agreements, communications, proposals, representations, and understandings with respect to the Services and all other subject matter hereof, whether oral or written. You may also be subject to additional terms and conditions that may apply when you use the services of a third party.
