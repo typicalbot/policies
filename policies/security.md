@@ -16,7 +16,7 @@ All of our databases, files, and other storages of content have their files encr
 
 The main database used by the Services also deals with encrypted data while the Services are working.
 
-The Services use TLS encryption when transmitting data. Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS.
+The Services use TLS encryption when transmitting data. Whenever your data is in transit between you and us, everything is encrypted and sent using HTTPS.
 
 
 ## (2) Monitoring
