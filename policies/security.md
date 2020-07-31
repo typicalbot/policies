@@ -50,6 +50,6 @@ All credit card transactions are processed using secure encryption. Card informa
 
 ## (7) Reporting an Incident
 
-For sensitive or urgent reports, please email our [security team](mailto:security@typicalbot.com). Use our [public key](https://typicalbot.com/typicalbot-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours.
+For sensitive or urgent reports, please email our [security team](mailto:security@typicalbot.com). Use our [public key](https://typicalbot.com/contact/pgp) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours.
 
 For reports that aren’t sensitive or urgent, submit a [support request](mailto:support@typicalbot.com).
