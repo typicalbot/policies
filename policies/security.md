@@ -16,13 +16,7 @@ All of our databases, files, and other storages of content have their files encr
 
 The main database used by the Services also deals with encrypted data while the Services are working.
 
-The Services use TLS encryption when transmitting data.
-
-Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data may be transferred unencrypted.
-
-The databases used by the Services are generally not encrypted at rest — the information you add to the Services is active in our databases and subject to the same protection and monitoring as the rest of our systems. Our database backups are encrypted using GPG.
-
-Most data is not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest. Stored files which you upload are encrypted at rest.
+The Services use TLS encryption when transmitting data. Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS.
 
 
 ## (2) Monitoring
