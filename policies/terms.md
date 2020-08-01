@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-effectiveDate: '2020-08-14T00:00:00-05:00'
+effectiveDate: 'August 10, 2020'
 ---
 
 **TypicalBot** provides its products and services to you subject to these **Terms of Service**.

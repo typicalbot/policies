@@ -1,6 +1,6 @@
 ---
 title: Security Policy
-effectiveDate: '2020-08-14T00:00:00-05:00'
+effectiveDate: 'August 10, 2020'
 ---
 
 The security of your data is important to us. In this Security Policy, we describe how we maintain the security of data.
