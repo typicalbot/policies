@@ -16,9 +16,7 @@ If you breach or violate these Terms of Service, we may terminate your access to
 
 ## 1) Acceptance and Acknowledgment
 
-1. If you use the Services, you accept and agree to these Terms of Service. If you use the Services on behalf of a business or other legal entity, you must have the authority to bind that entity to these Terms of Service, in which case the terms "you" or "your" are referring to that entity. If you do not have the authority necessary to bind such entity to these Terms of Service, you shall not accept these Terms of Service and shall not use the Services on behalf of such entity.
-2. If you use certain features or portions of the Services, you may be subject to additional terms applicable to those certain features or portions of the Services ("Additional Terms"). Additional Terms, if any, will be made available and posted within the Services when they apply. Additional Terms may be modified from time to time, and are hereby incorporated by reference into these Terms of Service.
-3. If you do not accept or agree with any of these Terms of Service, you shall not access or use the Services.
+If you use the Services, you accept and agree to these Terms of Service. If you use the Services on behalf of a business or other legal entity, you must have the authority to bind that entity to these Terms of Service, in which case the terms "you" or "your" are referring to that entity. If you do not have the authority necessary to bind such entity to these Terms of Service, you shall not accept these Terms of Service and shall not use the Services on behalf of such entity. If you do not accept or agree with any of these Terms of Service, you shall not access or use the Services.
 
 
 ## 2) Eligibility
@@ -28,12 +26,7 @@ In order to use the Services, you must be at least 16 years of age, you must hav
 
 ## 3) Our Property
 
-1. All rights, title, and interest in and to the Services and the Website, including the names, look, and feel of the Services and the Website, are the exclusive property of the Company or our licensors. All rights reserved.
-2. You shall not acquire any ownership interest in or to the Services by accessing, downloading, or using the Services.
-3. You shall not alter, edit, hide, modify, obscure, or remove any legal and proprietary notices contained within the Services.
-4. You shall not copy, duplicate, sell, reproduce, resell, or exploit any portion of the Services, access to the Services, or use of the Services without the express written permission of the Company.
-5. You shall not copy, duplicate, or use the Company’s branding and logos, and any branding, icons, and logos contained within the Services, without express written permission from the Company.
-6. You shall not copy, duplicate, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements of the Website without express written permission from the Company.
+All rights, title, and interest in and to the Services and the Website, including the names, look, and feel of the Services and the Website, are the exclusive property of the Company or our licensors. You shall not acquire any ownership interest in or to the Services by accessing, downloading, or using the Services. You shall not alter, edit, hide, modify, obscure, or remove any legal and proprietary notices contained within the Services.
 
 
 ## 4) Your Property
@@ -43,8 +36,7 @@ All rights you have in any Materials that you create, distribute, post, publish,
 
 ## 5) Licenses Granted by Us
 
-1. We hereby grant you a limited, non-assignable, non-exclusive, non-sublicensable, non-transferable, personal, revocable, and worldwide license to access and use the Services as provided by the Company for the sole purpose of enabling you to enjoy the benefit of the Services, subject to these Terms of Service and the payment of all applicable fees. Unless you have our express written permission, you shall not (i) alter, decompile, deobfuscate, modify, reverse assemble, or reverse engineer the Services, or (ii) assign, copy, distribute, lease, redistribute, reproduce, rent, resell, sell, sublicense, transfer or otherwise exploit or make the Services available to any third party.
-2. Upon any termination of these Terms of Service, the licenses and rights granted to you in this section shall be immediately revoked and terminated, and you shall have no further right to access and use the Services.
+We hereby grant you a limited, non-assignable, non-exclusive, non-sublicensable, non-transferable, personal, revocable, and worldwide license to access and use the Services as provided by the Company for the sole purpose of enabling you to enjoy the benefit of the Services, subject to these Terms of Service and the payment of all applicable fees. Unless you have our express written permission, you shall not (i) alter, decompile, deobfuscate, modify, reverse assemble, or reverse engineer the Services, or (ii) assign, copy, distribute, lease, redistribute, reproduce, rent, resell, sell, sublicense, transfer or otherwise exploit or make the Services available to any third party. Upon any termination of these Terms of Service, the licenses and rights granted to you in this section shall be immediately revoked and terminated, and you shall have no further right to access and use the Services.
 
 
 ## 6) Licenses Granted by You
@@ -115,7 +107,7 @@ Furthermore, you agree that you shall not:
 
 1. When you purchase a subscription in relation to the Services, you authorize the Company to charge your Payment Method immediately and on a recurring (e.g. monthly or yearly) basis for the applicable subscription charge, any and all taxes, any and all transaction fees, and any other charges related to your subscription.
 2. Subscriptions shall automatically renew at the end of your applicable subscription period, unless you cancel your subscription before the end of the current subscription period.
-3. If you cancel a subscription before the end of your current subscription period, your cancellation shall take effect at the end of the current subscription period, and you will not be charged again. You will continue to have access to the Services until the end of the current subscription period, unless your access is terminated earlier in accordance with these Terms of Service.
+3. If you cancel a subscription before the end of your current subscription period, your cancellation shall take effect at the end of the current subscription period, and you will not be charged again. You will continue to have access to features of the Services included with your subscription until the end of the current subscription period, unless your access to the Services is terminated earlier in accordance with these Terms of Service.
 4. We may change the price of any subscriptions from time to time. When we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about price changes on our Website or the affected Services themselves. Price changes for subscriptions shall take effect at the start of the next applicable subscription period following the date of the price change.
 
 
@@ -135,7 +127,7 @@ To the fullest extent permitted by law, we shall not be liable, in law or in equ
 
 ## 14) Indemnification
 
-You agree to indemnify us, our affiliates and subsidiaries, and all of our agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to: (i) any Materials you provide to the Services; (ii) your access to, activities on, and usage of the Services; (iii) your access to, activities on, and usage of third party services; (iv) your breach of these Terms of Service or any Additional Terms, or any agreement or contract you have with a third party; (v) your violation of any third party rights, including, but not limited to, any intellectual property, privacy, or publicity rights; and (vi) your violation of any law, ordinance, or regulation.
+You agree to indemnify us, our affiliates and subsidiaries, and all of our agents, contractors, directors, employees, officers, and representatives from and against any and all actions, claims, costs, damages, debts, expenses, fees (including, but not limited to, attorneys’ fees), fines, judgments, liabilities, losses, obligations, and penalties arising out of or in relation to any action, claim, counterclaim, proceeding, or suit arising out of or in relation to: (i) any Materials you provide to the Services; (ii) your access to, activities on, and usage of the Services; (iii) your access to, activities on, and usage of third party services; (iv) your breach of these Terms of Service, or any agreement or contract you have with a third party; (v) your violation of any third party rights, including, but not limited to, any intellectual property, privacy, or publicity rights; and (vi) your violation of any law, ordinance, or regulation.
 
 
 ## 15) Privacy
@@ -191,19 +183,18 @@ All of the foregoing provisions in this section shall survive any termination of
 
 ## 22) Miscellaneous Provisions
 
-1. **Conflicts:** If there is a conflict or inconsistency between these Terms of Service and any Additional Terms, the Additional Terms shall govern for that conflict or inconsistency.
-2. **Electronic Form:** You hereby waive any and all defenses you may have based on the electronic form of these Terms of Service and the lack of signing by the parties hereto to execute these Terms of Service.
-3. **Headings:** Headings are for convenience only and shall not be used to construe the meaning of any provision in these Terms of Service.
-4. **Interpretation:** These Terms of Service shall not be construed against the Company by virtue of having drafted them.
-5. **Notices:** We will provide notices to you by email to the email address we have on record for you. You shall provide notices to the Company by email to [_legal@typicalbot.com_](mailto:legal@typicalbot.com). Emailed notices shall be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from the Company electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them on the Website or the Services.
-6. **Documentation:** Upon our request, you shall furnish to us any documentation, substantiation, or releases necessary to verify your compliance with these Terms of Service.
-7. **Force Majeure:** We shall not be liable or responsible to you for failure to perform any of our obligations under these Terms of Service if such failure is as a result of: (i) an act of God, earthquake, fire, flood, hurricane, storm or other natural disaster, or any failure or interruption of electricity, internet, or telephone service; (ii) an act of confiscation, embargo, foreign enemies, government sanction, hostilities (regardless of whether war is declared), insurrection, invasion, nationalization, protest, rebellion, revolution, riot, terrorist activities, or war; or (iii) a labor dispute, lockout, or strike.
-8. **Governing Law:** The laws of the United States of America and the State of Wisconsin shall govern these Terms of Service and any claim or dispute of any sort that might arise between us and you, without regard to any choice of law, conflicts of law, or similar principles and without regard to your location.
-9. **Jurisdiction and Venue:** All litigation or other legal proceedings resulting from these Terms of Service or the Services shall be brought and settled in a federal or state court in the State of Wisconsin, and you hereby irrevocably agree and consent to the jurisdiction of and venue in those courts and waive any objection as to inconvenient forum and personal jurisdiction.
-10. **Severability:** If any provision of these Terms of Service is found or held to be illegal, invalid, unenforceable, or void, the arbitrator or court shall endeavor to give effect to the parties’ intentions as reflected in the provision, and all other provisions of these Terms of Service shall remain in full force and effect.
-11. **Survival:** The terms and provisions of these Terms of Service that by their nature should survive termination shall survive any termination of these Terms of Service.
-12. **Waivers:** No failure or delay by the Company in exercising any right shall waive any further exercise of that right. In addition, no waiver of any breach or default of these Terms of Service shall waive any preceding or subsequent breach or default.
-13. If you have any questions about these Terms of Service, you may contact the Company via email to [_legal@typicalbot.com_](mailto:legal@typicalbot.com).
+1. **Electronic Form:** You hereby waive any and all defenses you may have based on the electronic form of these Terms of Service and the lack of signing by the parties hereto to execute these Terms of Service.
+2. **Headings:** Headings are for convenience only and shall not be used to construe the meaning of any provision in these Terms of Service.
+3. **Interpretation:** These Terms of Service shall not be construed against the Company by virtue of having drafted them.
+4. **Notices:** We will provide notices to you by email to the email address we have on record for you. You shall provide notices to the Company by email to [_legal@typicalbot.com_](mailto:legal@typicalbot.com). Emailed notices shall be deemed given and received one business day after the email is sent. You hereby agree and consent to receive all communications from the Company electronically, including agreements, disclosures, notices or other information. We may provide any such communications by email or by posting them on the Website or the Services.
+5. **Documentation:** Upon our request, you shall furnish to us any documentation, substantiation, or releases necessary to verify your compliance with these Terms of Service.
+6. **Force Majeure:** We shall not be liable or responsible to you for failure to perform any of our obligations under these Terms of Service if such failure is as a result of: (i) an act of God, earthquake, fire, flood, hurricane, storm or other natural disaster, or any failure or interruption of electricity, internet, or telephone service; (ii) an act of confiscation, embargo, foreign enemies, government sanction, hostilities (regardless of whether war is declared), insurrection, invasion, nationalization, protest, rebellion, revolution, riot, terrorist activities, or war; or (iii) a labor dispute, lockout, or strike.
+7. **Governing Law:** The laws of the United States of America and the State of Wisconsin shall govern these Terms of Service and any claim or dispute of any sort that might arise between us and you, without regard to any choice of law, conflicts of law, or similar principles and without regard to your location.
+8. **Jurisdiction and Venue:** All litigation or other legal proceedings resulting from these Terms of Service or the Services shall be brought and settled in a federal or state court in the State of Wisconsin, and you hereby irrevocably agree and consent to the jurisdiction of and venue in those courts and waive any objection as to inconvenient forum and personal jurisdiction.
+9. **Severability:** If any provision of these Terms of Service is found or held to be illegal, invalid, unenforceable, or void, the arbitrator or court shall endeavor to give effect to the parties’ intentions as reflected in the provision, and all other provisions of these Terms of Service shall remain in full force and effect.
+10. **Survival:** The terms and provisions of these Terms of Service that by their nature should survive termination shall survive any termination of these Terms of Service.
+11. **Waivers:** No failure or delay by the Company in exercising any right shall waive any further exercise of that right. In addition, no waiver of any breach or default of these Terms of Service shall waive any preceding or subsequent breach or default.
+12. If you have any questions about these Terms of Service, you may contact the Company via email to [_legal@typicalbot.com_](mailto:legal@typicalbot.com).
 
 
 ## 23) Entire Agreement
