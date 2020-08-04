@@ -147,7 +147,7 @@ You agree to indemnify us, our affiliates and subsidiaries, and all of our agent
 
 1. These Terms of Service begin on the date of electronic acceptance or on the date you first access or use the Services, whichever comes first.
 2. If you breach these Terms of Service, we may terminate your access to the Services immediately, with or without advance notice. If we disable, suspend, or terminate your access to the Services, or if we deactivate or delete your account, you shall not attempt to access the Services or create a new account without our express written consent and permission to do so.
-3. In the event of any expiration or termination of these Terms of Service, the following sections shall survive: Section 3 (Our Property), Section 4 (Your Property), Section 9 (Content and Materials), Section 12 (Disclaimers), Section 13 (Limitation of Liability), Section 14 (Indemnification), Section 15 (Privacy), Section 16 (Third Parties), Section 18 (Assignment and Beneficiaries), Section 20 (Dispute Resolution), Section 21 (Rights and Remedies), and Section 22 (Miscellaneous Provisions).
+3. In the event of any expiration or termination of these Terms of Service, the following sections shall survive: Section 3 (Our Property), Section 4 (Your Property), Section 9 (Materials and Content), Section 12 (Disclaimers), Section 13 (Limitation of Liability), Section 14 (Indemnification), Section 15 (Privacy), Section 16 (Third Parties), Section 18 (Assignment and Beneficiaries), Section 20 (Dispute Resolution), Section 21 (Rights and Remedies), and Section 22 (Miscellaneous Provisions).
 
 
 ## 18) Assignment and Beneficiaries
