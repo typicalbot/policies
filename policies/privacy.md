@@ -1,48 +1,79 @@
 ---
 title: Privacy Policy
-effectiveDate: '2020-06-18T20:29:00-05:00'
+effectiveDate: 'August 10, 2020'
 ---
 
-TypicalBot LLC ("Company," "we" or "our") provides a moderation and utility chat bot for Discord ("TypicalBot") to you through the Sites located at [https://typicalbot.com](https://typicalbot.com) ("Website"), subject to these terms and conditions at [https://typicalbot.com/legal/terms](https://typicalbot.com/legal/terms) ("Terms") and this privacy policy ("Policy").
+The privacy of your data means a great deal to us. In this Privacy Policy, we describe what data we collect and why, and how that data is handled by us. We do not and will not ever sell any personal information.
 
-The Terms govern your access to and use of TypicalBot, and the images, information, links, sounds, text, videos, and other content made available through the Sites (collectively, "Services"). By using the Services, you agree to the Policy. If you do not agree with the Policy, you may not use the Services.
+When we use the terms "Company", "we", "our", or "us" in this document, we are referring to **TypicalBot LLC**. When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company. When we use the term "Website" in this document, we mean the Company’s website located at [https://typicalbot.com](https://typicalbot.com).
 
-Your privacy is very important to the Company. It is the Company’s policy to respect your privacy.
+This Privacy Policy applies to the Services and the Website.
 
-## 1. Personal Information
 
-The Company collects, processes and shares your personal information in order to provide the Services and facilitate payments. The Company uses this information to analyze and understand how the Services are used, to personalize your experience while using the Services, and to provide the Services to you.
+## 1) When We Collect Data
 
-## 2. Cookies
+We’ll only collect the information we need in order to provide the Services to you, or to improve the Services in some way, such as personalizing your experience with the Services. Here’s the details:
 
-A cookie is a small data file that is transferred to and stored on your computer or mobile device. The Company uses cookies on the Website to analyze how the Website are used, to analyze how the Website are discovered, to analyze the effectiveness of our advertising and marketing efforts to deliver targeted advertising, and to protect the security of the Website.
+1. **Account and Identity:** When you create an account to use the Services, we ask for your name and email address so that we can identify you, personalize your account, and send you essential information, including invoices and updates.
+2. **Billing and Payments:** When you pay for the Services, we ask for your credit card and billing address so we can charge you, calculate taxes due, and send you invoices. Your billing and payment information is passed directly to our payment processor and doesn’t ever go through our servers. We keep a record of your payment transactions for accounting purposes and billing support. We use your billing information to calculate any sales tax due in the United States, to detect fraudulent transactions, and to print on your invoices.
+3. **Contact and Correspondence:** When you write to us, we keep that correspondence, including your email address, so that we have a history of past correspondences to reference if you contact us in the future.
+4. **Using the Services:** When you use the Services and provide information as part of that use, we store and use that information in order to fulfill the requests you make as part of the Services.
+5. **Cookies:** A cookie is a piece of text stored by your browser to help it remember certain information. We use persistent first-party cookies to make it easier for you to use the Services and Website, monitor aggregate usage of the Services, and store certain preferences.
+6. **Links:** We may track the links you click on across the Services and the Website for statistical purposes and to help inform some design decisions.
+7. **Website Activity:** When you browse the Website, the browser you use automatically shares certain information with us. This information may include your browser type and version, device identifier and type, IP address, mobile carrier (if you’re using a mobile device), and operating system. Information about the referring page or website, and any search terms you may have used to find the Website may also be included. We track this information for statistical purposes, and to ensure the Services are reliable and secure, to improve the Services, and to understand how the Services are discovered and used. This information may be tied to your account if you are signed into the Services. We blind all of these individual identifiers after no more than 60 days.
+8. **Miscellaneous:** When you voluntarily provide additional information to us, we store that information. When a third party service provider shares information with us, we store that information pursuant to our agreement with that third party service provider.
 
-The Company uses [Cloudflare](https://www.cloudflare.com) to protect the security of the Website. Cloudflare may store cookies on your computer to assist in providing its protection service to identify individual clients behind a shared IP address and apply security settings on a per-client basis. To learn more about how Cloudflare uses cookies, you can review Cloudflare’s cookie policy at [https://www.cloudflare.com/cookie-policy](https://www.cloudflare.com/cookie-policy).
+We are not in the business of advertising. We do not use any personal information to advertise or market third party products and services to you.
 
-The Company uses [Google Analytics](https://analytics.google.com/) to analyze the use of the Services and how the Services are discovered. Google Analytics may store first-party and third-party cookies on your computer to assist in providing its analytics service. The Company uses various advertising reporting features of Google Analytics, such as demographic and interest reports, to better understand who is using the Website, to analyze the effectiveness of our advertising and marketing efforts and to display targeted advertising to you. You can opt-out of cookies stored by Google Analytics by using the Google Analytics Opt-out Browser Addon ([https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)). If you’d like to learn about how Google uses cookies they store on your computer, you can review Google’s privacy policy at [https://policies.google.com/privacy](https://policies.google.com/privacy).
+If we intend on using any personal data or information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which such data or information is collected.
 
-You are free to refuse any first or third party cookies using the settings of your browser. Note that refusing cookies from the Website may impact the functionality of the Website and the Website may not behave as intended.
 
-## 3. Links
+## 2) When We Access and Share Data
 
-The Services may contain links to third party websites. The Company does not own or control these third party websites and you should review the privacy policies of these third party websites to understand what information they collect and how they use it.
+We’ll only access or share your information when we need to do so in order to provide the Services to you or comply with the law. Here’s what that means:
 
-## 4. Logs and Technical Information
+1. **Safety and Security:** We will access your account and share your information if we believe it is necessary to do so in order to address fraud, security, or technical issues with the Services, to protect the safety of any person, to protect our rights, or to protect the rights of others.
+2. **Support Requests:** When you make a support request or otherwise reach out to us for help with an issue you are having, we may need to access your account and the information associated with your account in order to resolve that issue.
+3. **Law Enforcement:** When we receive a court order, subpoena, or warrant to preserve or share information, we generally have to comply. We do not voluntarily share information with local and federal law enforcement. We will inform you of any requests for your information that we receive, unless we are legally prevented from doing so. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
 
-The Company receives technical information when you access or use the Website, such as your browser type, cookie information, device information, device type, IP address, location information, mobile carrier (if you’re using a mobile device), operating system, user agent, pages visited, referring pages and websites, and search terms. The Company may store some of this technical information in our system logs to ensure the Website are reliable and secure, to understand how the Website are discovered and used, and to protect the security of the Website. All information stored in the system logs will be deleted within seven (7) days.
+We use third party services to operate the Services and the Website, and we process some or all of your information via these services. These services include: (i) a web performance and security service, [Cloudflare](https://www.cloudflare.com/); (ii) a cloud hosting service, [OVH](https://us.ovhcloud.com/); (iii) an error reporting service, [Sentry](https://sentry.io/); and (iv) a payment processing service, [Stripe](https://stripe.com/).
 
-## 5. Billing and Payment Information
+If the Company is acquired by or merged with another company, we will notify you of such a transaction before your information is transferred.
 
-The Company uses [Stripe](https://stripe.com) to process payments and manage billing disputes. The Company shares payment information collected through the Website with Stripe in order to facilitate payments, handle disputes and prevent fraud. If you’d like to learn about how Stripe may use your information, you can review Stripe’s privacy policy at [https://stripe.com/privacy](https://stripe.com/privacy).
+We are not in the business of selling your information. We will not rent or sell to any third party any of the personal data or information that you provide to the Company.
 
-## 6. Third Party Information
 
-The Company may receive information about you from third parties, such as metadata, usernames, avatars and email addresses. The Company uses this information to analyze and understand how the Services are discovered and used, to personalize your experience while using the Services, and to provide certain features of the Services to you.
+## 3) Security of Data
 
-## 7. Your Rights
+The security of your information is just as important to us as your privacy. We ensure that your information is secure using encryption, physical security, and redundancy. Please review our [security policy](https://typicalbot.com/policies/security) for more information about what we do to keep your information secure.
 
-You have the right to request a copy of any of your personal information that the Company has in its possession. You also have the right to request that the Company delete your personal information that the Company has in its possession. You can exercise these rights by emailing the Company at [privacy@typicalbot.com](mailto:privacy@typicalbot.com).
 
-## 8. Modifications
+## 4) Transfer of Data
 
-The Company may modify this Policy from time to time. The most current version of this Policy will be available at [https://typicalbot.com/legal/privacy](https://typicalbot.com/legal/privacy). By using the Website after any changes to this Policy become effective, you agree to the modified Policy.
+The Services and Website are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Services or the Website, you consent to this transfer.
+
+
+## 5) Deleting Data
+
+If you delete your account, we delete all of the data and information associated with your account right away. Some information may be retained in backups that we keep for up to 7 days.
+
+We give you options and tools for deleting your information from the Services. When you delete information, that information is deleted from active databases almost immediately, but it may be retained in backups for up to 7 days.
+
+You may request, subject to certain limitations under applicable law, that we delete all of your personal information in our possession. Fulfillment of such requests may prevent you from using the Services because they may then no longer work. In such cases, such requests may result in closing your account.
+
+
+## 6) Children’s Data
+
+We do not knowingly collect information from anyone under the age of 13. If we learn that you are under the age of 13, we will delete your account and any information associated with your account.
+
+
+## 7) Links
+
+The Services or Website may contain links to other websites not controlled or operated by us. This Privacy Policy does not apply to such websites. We suggest contacting those websites directly for information on their privacy policies.
+
+
+## 8) Modifications and Questions
+
+We may modify this policy as needed to comply with applicable law and reflect any new practices.
+
+If you have any questions or concerns about this Privacy Policy, your data, or your rights with respect to your information, you can reach out by emailing us at [privacy@typicalbot.com](mailto:privacy@typicalbot.com) and we’ll be happy to answer them!
