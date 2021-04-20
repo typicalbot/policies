@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-effectiveDate: 'August 10, 2020'
+effectiveDate: 'April 20, 2020'
 ---
 
 The privacy of your data means a great deal to us. In this Privacy Policy, we describe what data we collect and why, and how that data is handled by us. We do not and will not ever sell any personal information.
@@ -36,7 +36,7 @@ We’ll only access or share your information when we need to do so in order to 
 2. **Support Requests:** When you make a support request or otherwise reach out to us for help with an issue you are having, we may need to access your account and the information associated with your account in order to resolve that issue.
 3. **Law Enforcement:** When we receive a court order, subpoena, or warrant to preserve or share information, we generally have to comply. We do not voluntarily share information with local and federal law enforcement. We will inform you of any requests for your information that we receive, unless we are legally prevented from doing so. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
 
-We use third party services to operate the Services and the Website, and we process some or all of your information via these services. These services include: (i) a web performance and security service, [Cloudflare](https://www.cloudflare.com/); (ii) a cloud hosting service, [OVH](https://us.ovhcloud.com/); (iii) an error reporting service, [Sentry](https://sentry.io/); and (iv) a payment processing service, [Stripe](https://stripe.com/).
+We use third party services to operate the Services and the Website, and we process some or all of your information via these services. These services include: (i) a web performance and security service, [Cloudflare](https://www.cloudflare.com/); (ii) a cloud hosting service, [OVH](https://us.ovhcloud.com/); (iii) a managed cloud database service, [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) with [Microsoft Azure](https://azure.microsoft.com/en-us/); (iv) an error reporting service, [Sentry](https://sentry.io/); and (v) a payment processing service, [Stripe](https://stripe.com/).
 
 If the Company is acquired by or merged with another company, we will notify you of such a transaction before your information is transferred.
 
