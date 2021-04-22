@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-effectiveDate: 'April 20, 2020'
+effectiveDate: 'April 20, 2021'
 ---
 
 The privacy of your data means a great deal to us. In this Privacy Policy, we describe what data we collect and why, and how that data is handled by us. We do not and will not ever sell any personal information.
